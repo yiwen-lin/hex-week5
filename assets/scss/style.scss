@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;700&display=swap');
+
+@import "reset";
+@import "variable";
+@import "base";
+@import "mixin";
+// @import "icon";
+
+
+//bs放在最後面，可以先讀到上面自己寫的scss，蓋過bs的設定
+// @import url('https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css');
